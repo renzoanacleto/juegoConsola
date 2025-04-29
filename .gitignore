@@ -1,0 +1,19 @@
+# Archivos y carpetas de compilación
+bin/
+obj/
+
+# Archivos de build
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+
+# Configuraciones locales
+*.user
+*.vs/
+.vscode/
+
+# Archivos generados de dependencias
+*.deps.json
+*.runtimeconfig.json
